@@ -3,6 +3,7 @@
 # sm64
 Super Mario 64 for the Browser!
 
+credits to https://github.com/ArkShocer/sm64 for the code
 Originally copied from https://froggi.es/mario/ but due to wasm binary problems recompiled (https://emscripten.org/) (https://github.com/n64decomp/sm64).
 
 Save's are stored in browser localdate, cleaing cache makes it removed. You should be able to copy and paste the savefile to any browser that supports it.
